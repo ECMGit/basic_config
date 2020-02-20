@@ -15,5 +15,13 @@ Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'fatih/vim-go', { 'do': ':GoInstallBinaries' }
 
 
+" fugitive
+Plug 'tpope/vim-fugitive'
+
 call plug#end()
 let g:go_version_warning = 0
+set tabstop=4
+set autoindent
+
+set laststatus=2 "show the status line
+set statusline=%-10.3n  "buffer number

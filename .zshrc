@@ -22,7 +22,8 @@ ZSH_THEME_RANDOM_CANDIDATES=(
 	"dieter" 
 	"philips" 
 	"wezm" 
-	"ys")
+	"ys"
+	"sunrise")
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -111,3 +112,7 @@ export PATH=${PATH}:/usr/local/mysql/bin
 
 #add typora
 alias typora="open -a typora"
+
+#add anaconda
+export PATH=~/anaconda3/bin:$PATH
+
