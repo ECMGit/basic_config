@@ -23,6 +23,8 @@ ZSH_THEME_RANDOM_CANDIDATES=(
 	"philips" 
 	"wezm" 
 	"ys"
+	"lambda"
+	"fishy"
 	"sunrise")
 
 # Uncomment the following line to use case-sensitive completion.
